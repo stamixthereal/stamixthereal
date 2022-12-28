@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/stamixthereal/stamixthereal/master/images/image.png)
+![Banner](https://raw.githubusercontent.com/stamixthereal/stamixthereal/master/images/img.png)
 
 Hi! My name is Stas, and I am a data engineer who loves turning chaos into order and data into insights. My superpower is transforming raw data into meaningful information. I have a knack for finding patterns and trends in even the most complex datasets. 
 
