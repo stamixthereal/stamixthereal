@@ -18,4 +18,4 @@ Hi, I'm Stas (Stanislav), a Lead Data Engineer passionate about transforming raw
 
 **Believer in continuous learning and growth. Let's innovate and inspire together!**
 
-[![Stas's Github Stats](https://github-readme-stats.vercel.app/api?username=stamixthereal)](https://github.com/anuraghazra/github-readme-stats)
+[![Stas's Github Stats](https://github-readme-stats.vercel.app/api?username=stamixthereal&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
